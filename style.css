@@ -1,0 +1,20 @@
+.body {
+  background: #0e509b;
+  color: #a14141;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+#bmiValue {
+  font-size: 1.5rem;
+}
+
+#bmiCategory {
+  font-size: 1.2rem;
+  color: #3cd12f;
+}
+.button {
+  color: rgb(183, 247, 33);
+}
